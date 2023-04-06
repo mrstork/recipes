@@ -1,7 +1,5 @@
 ---
-layout: single
+layout: post
 title: "new post"
-tags:
-- recipe
 date: 2000-01-01
 ---
