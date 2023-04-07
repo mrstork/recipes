@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title: "Almond Snickerdoodles"
+category: Baked Goods
 tags:
-- recipe
 - gluten-free
 date: 2000-01-01
 ---
@@ -15,4 +15,4 @@ date: 2000-01-01
 - 1 egg
 - 1 teaspoon vanilla
 
-1. sprinkle with cinammon sugar, 350F
+1. sprinkle with cinammon sugar, 350°F

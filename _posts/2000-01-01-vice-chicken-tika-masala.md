@@ -1,70 +1,68 @@
 ---
-layout: single
+layout: post
 title: "Vice's Chicken Tika Masala"
-tags:
-- recipe
 date: 2000-01-01
 ---
 
-for the chicken tikka: 
-2 pounds|916 grams boneless, skinless chicken thighs
-1 tablespoon kosher salt
-1 tablespoon red chili powder
-6 garlic cloves, peeled and mashed into a paste
-1 (1-inch) piece ginger, peeled and mashed into a paste
-2 lemons, juiced 
-1 cup|225 grams plain yogurt
-¼ cup|60 ml canola oil 
-1 tablespoon garam masala 
-2 teaspoons ground turmeric 
-2 tablespoons unsalted butter, melted
+for the chicken tikka:
+- 2 pounds (916 g) boneless, skinless chicken thighs
+- 1 tablespoon kosher salt
+- 1 tablespoon red chili powder
+- 6 garlic cloves, peeled and mashed into a paste
+- 1 (1-inch) piece ginger, peeled and mashed into a paste
+- 2 lemons, juiced 
+- 1 cup (225g) plain yogurt
+- ¼ cup (60 ml) canola oil 
+- 1 tablespoon garam masala 
+- 2 teaspoons ground turmeric 
+- 2 tablespoons unsalted butter, melted
 
 
 for the makhni gravy: 
-1 pound|450 grams tomatoes, halved  
-1 garlic clove, peeled and mashed into a paste
-1 (½-inch) piece ginger, peeled and mashed into a paste
-1 teaspoon red chilli powder 
-1 small green chilli
-1 cardamom pod
-1 whole clove
-15 grams cilantro with stems
-kosher salt, to taste
-½ tablespoon unsalted butter
-¼ cup|60ml heavy cream
-2 tablespoons kasoori methi
-honey, to taste
+- 1 pound (450 g) tomatoes, halved  
+- 1 garlic clove, peeled and mashed into a paste
+- 1 (½-inch) piece ginger, peeled and mashed into a paste
+- 1 teaspoon red chilli powder 
+- 1 small green chilli
+- 1 cardamom pod
+- 1 whole clove
+- 15 grams cilantro with stems
+- kosher salt, to taste
+- ½ tablespoon unsalted butter
+- ¼ cup (60ml) heavy cream
+- 2 tablespoons kasoori methi
+- honey, to taste
 
 
 for the onion tomato masala:
-¼ cup|60 ml canola oil 
-½ pound red onion, diced 
-2 garlic cloves, peeled and mashed into a paste 
-1 (¾-inch) piece ginger, peeled and mashed into a paste
-½ teaspoon red chili powder 
-½ pound|225 grams tomatoes, diced 
-½ teaspoon garam masala 
-kosher salt, to taste
+- ¼ cup (60 ml) canola oil 
+- ½ pound red onion, diced 
+- 2 garlic cloves, peeled and mashed into a paste 
+- 1 (¾-inch) piece ginger, peeled and mashed into a paste
+- ½ teaspoon red chili powder 
+- ½ pound (225g) tomatoes, diced 
+- ½ teaspoon garam masala 
+- kosher salt, to taste
 
 
 for the chicken tikka masala: 
-3 tablespoons|150 grams ghee
-3 teaspoons cumin seeds
-8 whole dried red chiles 
-7 small garlic cloves, chopped
-2 pounds|1 kg chicken tikka  
-2 teaspoons red chilli powder
-1 ¼ cups onion tomato masala
-1 ¼ cups makhni gravy
-5 green chillies, thinly sliced
-¼ cup|60 ml heavy cream
-1 tablespoon unsalted butter
-2 tablespoons kasoori methi
-1 tablespoon garam masala
-kosher salt, to taste
-chopped cilantro, for garnish
-1 (1-inch) piece ginger, peeled and julienned, for garnish
-steamed basmati rice, to serve
+- 3 tablespoons (150g) ghee
+- 3 teaspoons cumin seeds
+- 8 whole dried red chiles 
+- 7 small garlic cloves, chopped
+- 2 pounds (1 kg) chicken tikka  
+- 2 teaspoons red chilli powder
+- 1 ¼ cups onion tomato masala
+- 1 ¼ cups makhni gravy
+- 5 green chillies, thinly sliced
+- ¼ cup (60 ml) heavy cream
+- 1 tablespoon unsalted butter
+- 2 tablespoons kasoori methi
+- 1 tablespoon garam masala
+- kosher salt, to taste
+- chopped cilantro, for garnish
+- 1 (1-inch) piece ginger, peeled and julienned, for garnish
+- steamed basmati rice, to serve
 
 
 
@@ -79,4 +77,4 @@ Directions
 7. Heat the ghee in a large saucepan over medium-high. Add the cumin seeds and dried whole chiles and cook until they start to crackle, about 1 minute. Add the garlic and cook until golden, about 1 minutes. Add the chicken and cook for 1 minute, then add the chili powder. Add the onion tomato masala, the gravy, and the green chiles and bring to a boil. Reduce the heat to maintain a simmer and cook until the chicken is heated through, about 2 minutes. Stir in the cream, butter, garam masala, and kasoori methi and season with salt. Serve with steamed basmati rice and garnish with the chopped cilantro and ginger.
 
 
-https://www.vice.com/en/article/v7g899/chicken-tikka-masala-recipe
+[https://www.vice.com/en/article/v7g899/chicken-tikka-masala-recipe](https://www.vice.com/en/article/v7g899/chicken-tikka-masala-recipe)

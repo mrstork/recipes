@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Cinnamon Buns"
-tags:
-- Databases
-- SQL
+category: Baked Goods
 date: 2000-01-01
 ---
 
@@ -28,4 +26,4 @@ date: 2000-01-01
 
 Proof for 1 hour or until dough doubles in size
 Make rolls and proof for 30 minutes before baking
-350^F ~20 minutes (or until golden brown)
+350°F ~20 minutes (or until golden brown)

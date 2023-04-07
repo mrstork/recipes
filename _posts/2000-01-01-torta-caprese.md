@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Torta Caprese"
-tags:
-- recipe
+category: Baked Goods
 date: 2000-01-01
 ---
 
@@ -14,7 +13,7 @@ date: 2000-01-01
 - powdered sugar for dusting
 - salt
 
-350F, 50 minutes (or until it pulls away from the tin)
+350°F, 50 minutes (or until it pulls away from the tin)
 
 1. Blanch the almonds to remove the skins
 2. Process the almonds and chocolate

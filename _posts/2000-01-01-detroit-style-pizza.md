@@ -1,8 +1,6 @@
 ---
-layout: single
+layout: post
 title: "Detroit-Style Pizza"
-tags:
-- recipe
 date: 2000-01-01
 ---
 
@@ -17,4 +15,4 @@ date: 2000-01-01
 2. Add flour and mix for 10 minutes
 3. First rise ~1 hour
 4. Oil on pan, stretch dough in pan, second rise ~30 minutes
-5. Add toppings, 500F for ~20m
+5. Add toppings, 500°F for ~20m

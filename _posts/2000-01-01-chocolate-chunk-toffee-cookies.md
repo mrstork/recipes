@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Chocolate Chunk Toffee Cookies"
-tags:
-- Databases
-- SQL
+category: Baked Goods
 date: 2000-01-01
 ---
 
@@ -12,7 +10,7 @@ date: 2000-01-01
 - 3/4 cup light brown sugar
 - 1 teaspoon kosher salt
 
-Cook over medium heat until temperature reaches soft crack (280^F / 140^C) stirring constantly
+Cook over medium heat until temperature reaches soft crack (280°F / 140°C) stirring constantly
 
 # Cookies
 - 1 cup butter, browned (+ 1-2 ice cubes)

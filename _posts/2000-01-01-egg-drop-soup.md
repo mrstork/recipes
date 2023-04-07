@@ -1,8 +1,6 @@
 ---
-layout: single
+layout: post
 title: "Egg Drop Soup"
-tags:
-- recipe
 date: 2000-01-01
 ---
 

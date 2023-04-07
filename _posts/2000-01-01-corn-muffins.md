@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Corn Muffins"
-tags:
-- Databases
-- SQL
+category: Baked Goods
 date: 2000-01-01
 ---
 
@@ -16,4 +14,4 @@ date: 2000-01-01
 - 1 cup mulk
 - 1/4 cup canola oil
 
-400^F ~ 15 minutes
+400°F ~ 15 minutes

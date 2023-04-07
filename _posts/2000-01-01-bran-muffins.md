@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Bran Muffins"
-tags:
-- recipe
+category: Breakfast
 date: 2000-01-01
 ---
 

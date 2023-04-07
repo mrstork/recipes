@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: post
 title: "Basque Cheesecake"
-tags:
-- recipe
+category: Baked Goods
 date: 2000-01-01
 ---
 
@@ -15,4 +14,4 @@ date: 2000-01-01
 - 1/3 cup AP flour
 
 1. Spring form pan lined with parchment
-2. 400F, 45 - 50 min
+2. 400°F, 45 - 50 min

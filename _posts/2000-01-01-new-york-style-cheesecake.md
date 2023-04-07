@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: post
 title: "New York-Style Cheesecake"
-tags:
-- recipe
+category: Baked Goods
 date: 2000-01-01
 ---
 
@@ -26,5 +25,5 @@ Any fruit topper
 
 1. Combine all ingredients ensuring a smooth custard starting with cream cheese and sugar
 2. Line the pan with parchment, graham cracker crust evenly on the bottom, pour in custard
-3. 180C water bath, 40-45 minutes + 1 hour with the oven off to prevent cracking
+3. 180°C water bath, 40-45 minutes + 1 hour with the oven off to prevent cracking
 4. Chill overnight in the fridge before serving

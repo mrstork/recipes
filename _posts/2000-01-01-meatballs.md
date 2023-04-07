@@ -1,8 +1,6 @@
 ---
-layout: single
+layout: post
 title: "Meatballs"
-tags:
-- recipe
 date: 2000-01-01
 ---
 
@@ -13,4 +11,4 @@ date: 2000-01-01
 - chopped parsley, cilantro
 - salt, pepper
 
-1. Bake 400F until rare if using in another dish, or all the way through
+1. Bake 400°F until rare if using in another dish, or all the way through

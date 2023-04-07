@@ -1,8 +1,6 @@
 ---
-layout: single
+layout: post
 title: "Gordon's Chicken Tika Masala"
-tags:
-- recipe
 date: 2000-01-01
 ---
 

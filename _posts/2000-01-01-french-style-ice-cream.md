@@ -1,8 +1,6 @@
 ---
-layout: single
+layout: post
 title: "French-Style Ice Cream"
-tags:
-- recipe
 date: 2000-01-01
 ---
 

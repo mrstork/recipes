@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Cinnamon Buns"
-tags:
-- Databases
-- SQL
 date: 2000-01-01
 ---
 
