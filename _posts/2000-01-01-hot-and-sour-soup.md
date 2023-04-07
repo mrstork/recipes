@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cinnamon Buns"
+title: "Hot and Sour Soup"
 date: 2000-01-01
 ---
 
