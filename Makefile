@@ -8,7 +8,7 @@ minify-images: ## Minify post images and logos in the images directory
 	find . -name "assets/images/*.jpg" -exec jpegoptim -m80 -o -p --strip-all {} \;
 	find . -name "assets/images/*.png" -exec optipng -o7 {} \;
 
-new-post: ## Start local development server
+new-post: ## Create new recipe post
 	cat _templates/post-template.md >> _posts/2000-01-01-new-post.md
 
 %:
