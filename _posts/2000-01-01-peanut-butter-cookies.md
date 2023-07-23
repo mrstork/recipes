@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "new post"
+title: "Peanut Butter Cookies"
 date: 2000-01-01
 ---
 
