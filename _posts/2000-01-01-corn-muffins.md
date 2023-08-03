@@ -11,7 +11,7 @@ date: 2000-01-01
 - 2 teaspoons baking powder
 - 1/2 teaspoon salt
 - 1 egg
-- 1 cup mulk
+- 1 cup milk
 - 1/4 cup canola oil
 
 400°F ~ 15 minutes
