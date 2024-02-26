@@ -1,3 +1,18 @@
 title: Recipes
 description: A notebook of recipes collected over the years
 theme: minima
+
+collections:
+  permalink: /:collection/:name/
+
+  components:
+    output: true
+
+  soups:
+    output: true
+
+  breads:
+    output: true
+
+  desserts:
+    output: true
