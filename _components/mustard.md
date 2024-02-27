@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Mustard"
-date: 2000-01-01
 ---
 
 - 1/2 cup yellow mustard seeds

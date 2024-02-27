@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Gravalax"
-date: 2000-01-01
 ---
 
 - 1 tablespoons white peppercorns (whole)

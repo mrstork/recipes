@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Toffee"
-date: 2000-01-01
 ---
 
 - 6 tbsp (3/4 cup) butter

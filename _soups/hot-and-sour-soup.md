@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hot and Sour Soup"
-date: 2000-01-01
 ---
 
 - 8 cups chicken stock

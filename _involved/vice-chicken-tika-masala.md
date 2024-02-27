@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Vice's Chicken Tika Masala"
-date: 2000-01-01
 ---
 
 for the chicken tikka:

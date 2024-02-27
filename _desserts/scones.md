@@ -2,7 +2,6 @@
 layout: post
 title: "Scones"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 - 3 cups AP flour

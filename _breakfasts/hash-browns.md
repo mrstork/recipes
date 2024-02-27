@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hash Browns"
-date: 2000-01-01
 ---
 
 - 2 potatoes

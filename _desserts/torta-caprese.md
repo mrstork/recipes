@@ -2,7 +2,6 @@
 layout: post
 title: "Torta Caprese"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 - 1 3/4 sticks unsalted butter (7/8 cups)

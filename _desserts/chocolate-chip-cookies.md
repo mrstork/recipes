@@ -2,7 +2,6 @@
 layout: post
 title: "Chocolate Chip Cookies"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 - 1 cup (227g) unsalted butter

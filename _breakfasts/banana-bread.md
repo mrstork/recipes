@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Banana Bread"
-date: 2000-01-01
 ---
 
 - 2 ripe bananas, mashed until smooth

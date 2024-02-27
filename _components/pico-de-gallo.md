@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Pico de Gallo"
-date: 2000-01-01
 ---
 
 - 5 tomatoes

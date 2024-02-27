@@ -2,7 +2,6 @@
 layout: post
 title: "Chocolate Crinkle Cookies"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 Chocolate Crinkle Cookies

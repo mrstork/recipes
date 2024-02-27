@@ -2,7 +2,6 @@
 layout: post
 title: "Basque Cheesecake"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 - 3 packs of cream cheese

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Mayonaise"
-date: 2000-01-01
 ---
 
 - 2 egg yolks

@@ -2,7 +2,6 @@
 layout: post
 title: "Brownies"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 - 2 1/2 sticks of butter (1 1/4 cups)

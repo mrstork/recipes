@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "French-Style Ice Cream"
-date: 2000-01-01
 ---
 
 Base

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Tomato Soup"
-date: 2000-01-01
 ---
 
 - Tomatoes, usually beefsteak

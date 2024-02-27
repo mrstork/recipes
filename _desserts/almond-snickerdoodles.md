@@ -4,7 +4,6 @@ title: "Almond Snickerdoodles"
 category: Baked Goods
 tags:
 - gluten-free
-date: 2000-01-01
 ---
 
 - 1 1/2 cups almond flour

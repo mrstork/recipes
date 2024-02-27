@@ -2,7 +2,6 @@
 layout: post
 title: "Focaccia"
 category: Bread
-date: 2000-01-01
 ---
 
 - 7g active dry yeast

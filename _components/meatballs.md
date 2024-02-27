@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Meatballs"
-date: 2000-01-01
 ---
 
 - 50/50 pork and beef mince

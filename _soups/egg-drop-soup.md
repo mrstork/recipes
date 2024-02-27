@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Egg Drop Soup"
-date: 2000-01-01
 ---
 
 - 4 cups chicken stock

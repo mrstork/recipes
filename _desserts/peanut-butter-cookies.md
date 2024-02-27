@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Peanut Butter Cookies"
-date: 2000-01-01
 ---
 
 - 500g peanut butter

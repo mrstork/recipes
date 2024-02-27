@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Detroit-Style Pizza"
-date: 2000-01-01
 ---
 
 - 2 1/4 teaspoons active dry yeast

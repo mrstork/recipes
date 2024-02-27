@@ -2,7 +2,6 @@
 layout: post
 title: "Cinnamon Buns"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 - 1 package active dry yeast

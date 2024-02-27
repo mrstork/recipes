@@ -2,7 +2,6 @@
 layout: post
 title: "Chocolate Mousse Cake Recipe"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 Chocolate Mousse Cake Recipe

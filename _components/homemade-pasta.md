@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Homemade Pasta"
-date: 2000-01-01
 ---
 
 - 1 egg

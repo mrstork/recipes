@@ -2,7 +2,6 @@
 layout: post
 title: "Crepes"
 category: Breakfast
-date: 2000-01-01
 ---
 
 - 1 cup AP flour

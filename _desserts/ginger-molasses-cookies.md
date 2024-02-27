@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Ginger Molasses Cookies"
-date: 2000-01-01
 ---
 
 Ginger Molasses Cookies

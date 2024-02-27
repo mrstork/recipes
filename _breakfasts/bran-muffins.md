@@ -2,7 +2,6 @@
 layout: post
 title: "Bran Muffins"
 category: Breakfast
-date: 2000-01-01
 ---
 
 - 1 1/2 cups wheat bran

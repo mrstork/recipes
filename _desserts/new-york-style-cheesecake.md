@@ -2,7 +2,6 @@
 layout: post
 title: "New York-Style Cheesecake"
 category: Baked Goods
-date: 2000-01-01
 ---
 
 This recipe is for a 9' spring form pan
