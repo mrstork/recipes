@@ -8,11 +8,14 @@ collections:
   components:
     output: true
 
-  soups:
-    output: true
-
   breads:
     output: true
 
+  soups:
+    output: true
+
   desserts:
+    output: true
+
+  involved:
     output: true
